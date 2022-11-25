@@ -44,7 +44,7 @@ header {
     font-family: 'Sarala', sans-serif;
     color: #080708;
     font-weight: 400;
-    font-size: 18px;
+    font-size: 18rem;
 }
 
 .conteudo {
@@ -72,13 +72,13 @@ header {
   -webkit-text-fill-color: transparent;
     font-family: 'Righteous', cursive;
     font-weight: 400;
-    font-size: 64px;
+    font-size: 64rem;
 }
 
 .conteudo-principal-escrito-subtitulo{
     font-family: 'Sarala', sans-serif;
     font-weight: 400;
-    font-size: 24px;
+    font-size: 24rem;
     color: #0c0808;
 }
 
@@ -92,7 +92,7 @@ header {
     border-radius: 20px;
     font-family: 'Sarala', sans-serif;
     font-weight: 400;
-    font-size: 24px;
+    font-size: 24rem;
     color:#2f2325
 }
 
@@ -118,7 +118,7 @@ header {
     padding-top: 48px;
     font-family: 'Righteous', cursive;
     font-weight: 400;
-    font-size: 24px;
+    font-size: 24rem;
     color: #0ad0eb;
     margin-bottom: 16px;
 }
@@ -126,7 +126,7 @@ header {
 .conteudo-secundario-paragrafo {
     font-family: 'Sarala', sans-serif;
     font-weight: 300;
-    font-size: 18px;
+    font-size: 18rem;
     color: #0a0d0e;
 }
 
